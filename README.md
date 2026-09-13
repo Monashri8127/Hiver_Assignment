@@ -21,4 +21,26 @@ It was developed as part of the Hiver assignment to demonstrate text classificat
 - Accuracy: 85%  
 - Macro F1: 0.83  
 
-## 📂 Repository Structure
+
+## 🚀 Next Steps
+- Expand dataset further  
+- Try transformer models (BERT/DistilBERT)  
+- Deploy as a Streamlit app  
+
+
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
+## ▶️ Usage
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Monashri8127/Hiver_Assignment.git
+
+## 📦 Dependencies
+- Python 3.9
+- scikit-learn
+- pandas
+- numpy
+- matplotlib
