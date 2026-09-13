@@ -44,3 +44,13 @@ It was developed as part of the Hiver assignment to demonstrate text classificat
 - pandas
 - numpy
 - matplotlib
+
+## 📊 Sample Output
+![Confusion Matrix](results/confusion_matrix.png)
+
+## 💡 Demo
+**Input:** "My payment failed yesterday"  
+**Predicted Category:** Payment Issue
+
+
+https://github.com/Monashri8127/Hiver_Assignment
