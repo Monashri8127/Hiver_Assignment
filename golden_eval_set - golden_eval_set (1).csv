@@ -1,0 +1,9 @@
+tweet_id_customer,author_id_customer,inbound_customer,created_at_customer,text_customer,response_tweet_id_customer,in_response_to_tweet_id_customer,tweet_id_brand,author_id_brand,inbound_brand,created_at_brand,text_brand,response_tweet_id_brand,in_response_to_tweet_id_brand,response_time,response_time_hours,date,intent
+2367412,683357,TRUE,2017-11-26 17:07:26+00:00,@683358 @115873 @Uber_Support @119983 I have had same issue too..I have also raised the issue ..but no response from UBER,2367411,2367413,2367411,Uber_Support,FALSE, 17:15:16+00:00,@683357 Here to help! Kindly send us your email address together with additional details of your concern so our team can follow-up.,,2367412,0 days 00:07:50,0.1305555556,2017-11-26,Support not responding
+,,,,Ride issue,,,,,,,,,,,,,Driver didn’t arrive
+,,,,Payment issue,,,,,,,,,,,,,Refund not processed
+,,,,Account issue,,,,,,,,,,,,,Login failed
+,,,,General info request,,,,,,,,,,,,,How to change phone number
+,,,,Technical issue,,,,,,,,,,,,,App keeps crashing
+,,,,Support not responding,,,,,,,,,,,,,No reply from support
+,,,,Other,,,,,,,,,,,,,Just tagging @Uber_Support
